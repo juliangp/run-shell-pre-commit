@@ -1,0 +1,5 @@
+- id: run-shell
+  name: Run a local shell script
+  entry: run-shell-script.sh
+  language: 'script'
+  description: This hook runs a local shell script. The `args` are used to specify the local shell script.
